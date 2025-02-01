@@ -1,0 +1,1 @@
+<th class="border border-white px-1"> {{$slot }} </th>
